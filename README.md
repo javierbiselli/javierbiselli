@@ -1,5 +1,5 @@
-#Hi, i'm Javier
-###a passionate full stack developer, always learning new technologies and improving my skills
+# Hi, i'm Javier
+### a passionate full stack developer, always learning new technologies and improving my skills
 
 - 🔭 I’m currently working on a project called Divirta, you can check it on my GitHub repositories
 - 🌱 I’m currently learning Phyton
